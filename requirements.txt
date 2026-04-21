@@ -1,12 +1,2 @@
-flask
-pyrogram
+Pillow
 tgcrypto
-aiohttp
-aiofiles
-yt-dlp==2024.4.9
-ffmpeg
-pymongo
-python-dotenv
-cryptg
-tgcrypto
-humanize
